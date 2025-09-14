@@ -45,9 +45,4 @@ sudo apt install -y cmake build-essential git
 # Clone IsaacLab
 # -------------------------------
 git clone https://github.com/isaac-sim/IsaacLab.git
-cd IsaacLab
 
-# -------------------------------
-# Run IsaacLab installer
-# -------------------------------
-./isaaclab.sh --install   # or ./isaaclab.sh -i
